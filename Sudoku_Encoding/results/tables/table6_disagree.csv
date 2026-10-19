@@ -1,0 +1,4 @@
+N,hole,Seed,cpsat,sat_product,gurobi,cplex_cp,cplex_mip
+36,0.5,1,94.3,TO,TO,TO,TO
+36,0.5,4,83.03,TO,TO,TO,TO
+49,0.4,2,0.74,1.21,5.25,TO,13.29
